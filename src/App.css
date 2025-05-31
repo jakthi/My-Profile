@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body {
+    background-image: url('/image/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    padding: 22px;
+}
+
+.container {
+    background: rgba(255, 255, 255, 0.1);
+    width: 100%;
+    height: calc(100vh - 44px);
+    border-radius: 22px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.nav {
+    color: #fff;
+    width: 100%;
+    padding: 20px 25px;
+    display: flex;
+    flex-direction: row;
+}
+
+.nav h2 {
+    display: flex;
+    align-items: center;
+    cursor: default;
+}
+
+.h3 {
+    margin-left: auto;
+    margin-right: 45px;
+    display: flex;
+    flex-direction: row;
+}
+
+.nav h3 {
+    margin-left: 30px;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.nav h3:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+.spline {
+    width: 100%;
+    border-radius:22px;
+    height: calc(100vh - 44px);
+    overflow: hidden;
+    position: absolute;
+    z-index: -1000;
+    opacity: 0.7;
+}
+
+footer {
+    margin-top: auto;
+    margin-bottom: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+footer > a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.github {
+    margin-right: 0;
+    margin-left: auto;
+    background: aliceblue;
+    padding: 4px 37px 6px 37px;
+    border-radius: 10px;
+    color: #000000;
+    transition: 0.2s ease-in-out;
+}
+
+.github:hover {
+    scale: 1.1;
+    box-shadow: 0 0 10px gray;
+}
+
+.linkedin{
+    transition: 0.2s ease-in-out;
+    margin-left: 7px;
+}
+
+.linkedin:hover {
+    scale: 0.95;
+}
+
+.hover {
+    color: #cdcdcda7;
+}
+
+.note {
+    position: absolute;
+    font-size: 250px;
+    bottom: -90px;
+    left: -50px;
+    z-index: -10;
+    transform: rotate(10deg);
+}
+
+.joystick {
+    position: absolute;
+    font-size: 500px;
+    bottom: -150px;
+    right: -80px;
+    z-index: -10;
+    /* transform: rotate(10deg); */
+}
