@@ -14,6 +14,7 @@ body {
     background-repeat: no-repeat;
     overflow: hidden;
     padding: 22px;
+    height: 100dvh;
 }
 
 .container {
