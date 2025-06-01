@@ -5,7 +5,7 @@ function MyProjects({ myProjects, setMyProjects }) {
         <div className="container-myprojects" style={{ right: myProjects }}>
             <h1
                 onClick={() => {
-                    setMyProjects('-500px');
+                    setMyProjects('-1000px');
                 }}
             >
                 My Projects</h1>

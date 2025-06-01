@@ -48,6 +48,7 @@ body {
     border-radius: 5px;
     padding: 5px 10px;
     cursor: pointer;
+    transition: 0.1s ease;
 }
 
 .nav h3:hover {
@@ -122,4 +123,53 @@ footer > a {
     right: -80px;
     z-index: -10;
     /* transform: rotate(10deg); */
+}
+
+@media (max-width: 700px) {
+    .nav {
+        flex-direction: column;
+        padding: 10px 10px;
+    }
+
+    .nav p {
+        font-size: 22px;
+    }
+
+    .h3 {
+        margin: 15px 20px 0 0;
+        justify-content: center;
+        flex-direction: column;
+    }
+    
+    .nav h3 {
+        font-size: 14px;
+        margin: 10px 10px;
+        background-color: rgba(255, 255, 255, 0.3);
+    }
+
+    .nav h3:active {
+        scale: 1.05;
+    }
+
+    .github {
+        padding: 3px 20px 5px 20px;
+        font-size: 15px;
+    }
+    
+    .linkedin{
+        font-size: 15px;
+    }
+
+    .github:active {
+        scale: 1.1;
+        box-shadow: 0 0 10px gray;
+    }
+    
+    .linkedin:active {
+        scale: 0.95;
+    }
+
+    .spline {
+        display: none;
+    }
 }

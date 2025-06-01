@@ -41,3 +41,16 @@
     font-size: 24px;
     margin: 20px 200px;
 }
+
+@media (max-width: 900px) {
+    .paragraph {
+        margin: 20px 80px;
+    }
+}
+
+@media (max-width: 768px) {
+    .paragraph {
+        margin: 0 0;
+        font-size: 22px;
+    }
+}
