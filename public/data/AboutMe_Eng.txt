@@ -1,0 +1,10 @@
+Hello, thank you for visiting my website. I’m Jakthi Dyo Eliandi Putra — a high school graduate who started the journey of becoming a web developer through self-learning. I’ve studied using various online resources such as YouTube, official documentation, developer forums, and real-world opportunities I encountered along the way.
+
+My main focus is building web applications that are efficient, clean, and as bug-free as possible. I believe that UI/UX plays a crucial role in creating a strong first impression. A smooth and enjoyable user experience helps build trust and keeps users coming back. My career goal is to become a professional front-end developer who can work with global teams and contribute to impactful digital products. I’m open to freelance, remote, or junior front-end positions — especially at startups or tech-driven companies.
+
+Technologies and tools I work with daily:
+- React, Bootstrap  
+- HTML, CSS, JavaScript, PHP, C++  
+- Git & GitHub
+
+I’ve built several personal projects, including a to-do list app, landing pages, e-commerce UI, a portfolio site, and small productivity tools designed to simplify daily tasks. You can explore all of these through the links on my GitHub or directly from this website. Feel free to look around — and don’t hesitate to reach out if you’re interested in collaborating.

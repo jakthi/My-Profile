@@ -1,0 +1,31 @@
+Halo, terima kasih telah mengunjungi website saya. 
+Saya Jakthi Dyo Eliandi Putra — lulusan SMA yang 
+memulai perjalanan sebagai web developer secara 
+mandiri. Saya belajar melalui berbagai sumber online 
+seperti YouTube, dokumentasi resmi, forum komunitas, 
+serta berbagai peluang yang saya temui.
+
+Fokus utama saya adalah membangun aplikasi web yang 
+efisien, rapi, dan minim bug. Bagi saya, UI/UX adalah 
+elemen terpenting dalam membangun kesan pertama yang 
+kuat secara psikologis terhadap pengguna. Pengalaman 
+yang menyenangkan akan membuat mereka mengingat dan 
+kembali menggunakan produk yang kita buat. Tujuan karir 
+saya adalah menjadi front-end developer profesional 
+yang dapat bekerja dalam tim global dan berkontribusi 
+membangun produk digital yang berdampak. Saya terbuka 
+untuk posisi freelance, remote, maupun junior front-end 
+di startup maupun perusahaan teknologi.
+
+Beberapa alat dan teknologi yang saya gunakan sehari-hari:
+- React, Bootstrap
+- HTML, CSS, JavaScript, PHP, C++
+- Git & GitHub
+
+Saya juga telah mengembangkan berbagai proyek pribadi 
+seperti aplikasi to-do list, landing page, UI e-commerce, 
+situs portofolio, dan beberapa tools sederhana yang 
+bertujuan mempermudah pekerjaan sehari-hari. Semua proyek 
+tersebut dapat dilihat melalui tautan di GitHub maupun pada 
+menu website ini. Silakan jelajahi lebih lanjut, dan jangan 
+ragu untuk menghubungi saya bila ingin berkolaborasi.

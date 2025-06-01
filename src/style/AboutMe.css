@@ -1,8 +1,9 @@
 .container-aboutme {
     position: absolute;
-    background: rgba(255, 255, 255, 0.1);
+    background: rgba(56, 56, 56, 0.3);
     backdrop-filter: blur(30px);
     height: calc(100vh - 84px);
+    width: calc(100% - 40px);
     border-radius: 22px;
     overflow: auto;
     scrollbar-width: none;
@@ -32,4 +33,11 @@
 
 .close:hover {
     background: rgba(255, 255, 255, 0.4);
+}
+
+.paragraph {
+    white-space: pre-wrap;
+    color: aliceblue;
+    font-size: 24px;
+    margin: 20px 200px;
 }
