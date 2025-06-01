@@ -177,4 +177,8 @@ footer > a {
     .spline {
         display: none;
     }
+
+    .container {
+        height: calc(100vh - 84px);
+    }
 }
