@@ -29,7 +29,7 @@ function App() {
       </div>
 
       <div className="spline">
-        <spline-viewer url="https://prod.spline.design/bGFywlYV8zlhOz1f/scene.splinecode"></spline-viewer>
+{/*         <spline-viewer url="https://prod.spline.design/bGFywlYV8zlhOz1f/scene.splinecode"></spline-viewer> */}
       </div>
 
       <MyProjects myProjects={myProjects} setMyProjects={setMyProjects} />
