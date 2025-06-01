@@ -12,7 +12,7 @@ import { RiStickyNoteAddLine } from "react-icons/ri";
 function App() {
   const [isHovered, setIsHovered] = useState(false);
   const [isHovered2, setIsHovered2] = useState(false);
-  const [myProjects, setMyProjects] = useState('-1000px');
+  const [myProjects, setMyProjects] = useState('500px');
   const [aboutMe, setAboutMe] = useState('0')
 
   return (
