@@ -2,7 +2,10 @@ import '../style/MyProjects.css'
 
 function MyProjects({ myProjects, setMyProjects }) {
     return (<>
-        <div className="container-myprojects" style={{ right: myProjects }}>
+        <div className="container-myprojects" style={{ 
+            right: myProjects,
+            visibility: myProjects === '0' ? 'visible' : 'hidden'
+        }}>
             <h1
                 onClick={() => {
                     setMyProjects('-1000px');
