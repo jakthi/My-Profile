@@ -4,6 +4,7 @@ import './App.css';
 
 import MyProjects from '../src/components/MyProjects';
 import AboutMe from '../src/components/AboutMe';
+import Animation from '../src/components/Animation';
 
 import { LuGitCompare } from "react-icons/lu";
 import { BiJoystick } from "react-icons/bi";
@@ -12,7 +13,7 @@ import { RiStickyNoteAddLine } from "react-icons/ri";
 function App() {
   const [isHovered, setIsHovered] = useState(false);
   const [isHovered2, setIsHovered2] = useState(false);
-  const [myProjects, setMyProjects] = useState('500px');
+  const [myProjects, setMyProjects] = useState('-1000px');
   const [aboutMe, setAboutMe] = useState('0')
 
   return (
@@ -29,7 +30,7 @@ function App() {
       </div>
 
       <div className="spline">
-{/*         <spline-viewer url="https://prod.spline.design/bGFywlYV8zlhOz1f/scene.splinecode"></spline-viewer> */}
+        <Animation />
       </div>
 
       <MyProjects myProjects={myProjects} setMyProjects={setMyProjects} />
