@@ -24,7 +24,7 @@ function MyProjects({ myProjects, setMyProjects }) {
                 <li><a href="https://jakthi.github.io/Game-Suwit-Jawa/">Game Suwit Jawa</a></li>
                 <li><a href="https://jakthi.github.io/Gallery/">Gallery</a></li>
                 <li><a href="https://anime-app-henna-one.vercel.app/">Anime App</a></li>
-                <li><a href="https://jakthi.github.io/Authetication-page/">Authentication page</a></li>
+                <li><a href="https://authentication-page-kappa.vercel.app/">Authentication page</a></li>
                 <li><a href="https://jakthi.github.io/QR-Generate/">QR Generate</a></li>
                 <li><a href="https://jakthi.github.io/Dashboard-responsive/">Dashboard responsive</a></li>
                 <li><a href="https://multiple-control.vercel.app/">Multiple control</a></li>
